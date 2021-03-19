@@ -1,5 +1,6 @@
 # Projection-System-Control
 A collection of Python and Batch scripts to control a projection system: power on, shutdown, source switch, remote restart..etc.
+The setup is based on NORXE P1 projectors and 4x servers, it can be edited by simply switching IPs and TCP string messages.
 
 ## How to activate remote shutdown for network servers:
 1. Group Policy
