@@ -12,3 +12,8 @@ The setup is based on NORXE P1 projectors and 4x servers, it can be edited by si
 - From Windows Services, locate the Remote Registry service, right-click it and select Properties.
 - Set its startup to automatic then save and run it.
 
+
+## How to scan open TCP/IP ports on Projectors
+Using npcap (nmap alternative for windows)
+
+<code>nmap –p– 192.168.0.1 </code>
