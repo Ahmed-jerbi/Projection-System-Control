@@ -12,7 +12,7 @@ The setup is based on NORXE P1 projectors and 4x servers, it can be edited by si
 - From Windows Services, locate the Remote Registry service, right-click it and select Properties.
 - Set its startup to automatic then save and run it.
 
-2. Turn off Password protect sharing
+3. Turn off Password protect sharing
 - From Network and Sharing Center > Advanced sharing settings > all networks : Turn off password protected sharing.
 
 ## How to scan open TCP/IP ports on Projectors
