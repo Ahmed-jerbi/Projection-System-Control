@@ -5,7 +5,7 @@ The setup is based on NORXE P1 projectors and 4x servers, it can be edited by si
 ## How to activate remote shutdown for network servers:
 1. Group Policy
 - Open Local Group Policy Editor (or run "gpedit.msc") 
-- Go Local Policies/User Rights Assignment and open "Force shutdown from a remote system"
+- Go to " Computer Configuration > Windows Settings > Security Settings >  Local Policies > User Rights Assignment " and open "Force shutdown from a remote system"
 - Add a the master user account to the policy, or "everyone" ("jeder" in German OS)
 
 2. Remote Registry
