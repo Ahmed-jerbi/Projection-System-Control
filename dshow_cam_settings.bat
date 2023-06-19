@@ -10,3 +10,4 @@ if %ERRORLEVEL% neq 0 goto ProcessError
 :ProcessError
 echo Listing available DirectShow devices: 
 ffmpeg -list_devices true -f dshow -i dummy -hide_banner
+pause
